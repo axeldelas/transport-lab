@@ -15,14 +15,14 @@ The objective was to design and evaluate transport-layer protocols featuring dif
 - Implement flow control mechanisms
 - Evaluate protocol performance
 
-## :spider_web: Technologies
+## :gear: Technologies
 
 - C
 - Linux
 - TCP/IP Concepts
 - Network Programming
 
-## :man_technologist: Implemented Protocols
+## :hammer_and_wrench: Implemented Protocols
 
 ### v0 - Unreliable Transfer
 
@@ -63,7 +63,7 @@ Data transfer without reliability guarantees.
 - Timers
 - Reliability Engineering
 
-## :hammer_and_wrench: Skills Demonstrated
+## :man_technologist: Skills Demonstrated
 
 - C Programming
 - Network Protocol Design
